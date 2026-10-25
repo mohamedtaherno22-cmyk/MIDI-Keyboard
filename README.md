@@ -1,18 +1,13 @@
-MIDI Keypad
+# MIDI Keypad
 
-This is my attempt at designing my own MIDI keypad from scratch. I took inspiration from devices like the AKAI MPK Mini MK3, KORG nanoKEY2 and the keypad created by the Hack Club team. Still, . I used KiCad for the schematic and PCB design, with an ESP32S as the MCU.
+This is my attempt at designing my own MIDI keypad from scratch. I took inspiration from devices like the AKAI MPK Mini MK3, KORG nanoKEY2 and the keypad created by the Hack Club team. I used KiCad for the schematic and PCB design, with an ESP32S as the MCU.
 
 Features
-
-9 capacitive touch keys
-
-3 rotary encoders
-
-4 mechanical keyboard switches
-
-2 slide potentiometers
-
-ESP32-based design
+- 9 capacitive touch keys
+- 3 rotary encoders
+- 4 mechanical keyboard switches
+- 2 slide potentiometers
+- ESP32S-30pins
 
 A large PCB with dimensions of (140 mm × 90 mm)
 
