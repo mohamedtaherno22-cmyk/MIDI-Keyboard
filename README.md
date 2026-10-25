@@ -16,6 +16,9 @@ ESP32-based design
 
 A large PCB with dimensions of (140 mm × 90 mm)
 
+<img width="1089" height="763" alt="image" src="https://github.com/user-attachments/assets/0e966227-c89f-4517-ae56-df0d8d1b9298" />
+
+
 A smaller version designed to fit within a 100 × 100 mm board
 
 <img width="1675" height="895" alt="image" src="https://github.com/user-attachments/assets/756a1d04-5b59-4cc5-a69e-c7e67302a147" />
